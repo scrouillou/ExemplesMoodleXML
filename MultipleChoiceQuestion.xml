@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<question type=multichoice>
+﻿<?xml version="1.0"?>
+<question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples</text>
 	</name>
